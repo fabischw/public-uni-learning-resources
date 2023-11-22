@@ -1,0 +1,20 @@
+📦semester_1
+ ┣ 📂mathe_1
+ ┃ ┗ 📜README.md
+ ┣ 📂mathe_tutorien
+ ┃ ┗ 📜README.md
+ ┣ 📂physik
+ ┃ ┗ 📜README.md
+ ┣ 📂programmieren_in_c
+ ┃ ┗ 📜README.md
+ ┣ 📂programming_and_problem_solving_in_python
+ ┃ ┗ 📜README.md
+ ┣ 📂schluesselqualifikation
+ ┃ ┣ 📂bwl
+ ┃ ┃ ┗ 📜README.md
+ ┃ ┣ 📂projektmanagement
+ ┃ ┃ ┗ 📜README.md
+ ┃ ┣ 📂wissenschaftliches_arbeiten
+ ┃ ┗ 📜README.md
+ ┗ 📂theoretische_informatik_2
+ ┃ ┗ 📜README.md
